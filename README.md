@@ -9,3 +9,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ## infomacion
 
 1.- se instala dependencia de auth 0 "npm install @auth0/auth0-angular"
+2.- se agregan credenciales de auth 0 a app-module.ts
